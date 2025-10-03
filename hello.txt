@@ -3,4 +3,10 @@ IP Defender test
 
 これはLLMに送信されてほしくないデータです。.
 
+UseCase 2
+JavaScriptでWebアプリケーションのログインページのサンプルコードを書いて
+ログを見るとSASTで弾いている
 
+Usecase 3
+Prompt 2
+HI, １からNまでの合計を返すPythonコードを書いて
