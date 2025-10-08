@@ -9,4 +9,8 @@ JavaScriptでWebアプリケーションのログインページのサンプル�
 
 Usecase 3
 Prompt 2
-HI, １からNまでの合計を返すPythonコードを書いて
+ハノイの塔をPythonで書いて
+
+Crypt.javaを開いてコンテクストに乗った状態で
+Hi と送るだけ
+
